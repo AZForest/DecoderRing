@@ -15,7 +15,6 @@ const caesarModule = (function () {
     for (let i = 1; i < 27; i++) {
       hashTable[alphabet[i - 1]] = i;
     }
-    //console.log(hashTable);
 
     let result = "";
     input = input.toLowerCase();
@@ -33,7 +32,6 @@ const caesarModule = (function () {
           result += input[i];
         }
     }
-    console.log(result);
     return result;
   }
 
