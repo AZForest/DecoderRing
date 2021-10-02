@@ -1,6 +1,6 @@
 # DecoderRing
 
-Project that contains 3 real world ciphers that were solved using JavacScript: Caesar Shift, Polybius Square Cipher, and Substitution Cipher.
+Project that contains 3 real-world ciphers that were solved using JavaScript: Caesar Shift, Polybius Square Cipher, and Substitution Cipher.
 
 ## Caesar Shift
 
